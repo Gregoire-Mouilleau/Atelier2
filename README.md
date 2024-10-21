@@ -6,7 +6,11 @@ Ce projet a pour objectif de collecter des données touristiques à partir du si
 ## Structure du Projet
 Le projet est organisé comme suit :
 
-. ├── README.md ├── scripts/ │ ├── scrape_list.py # Script pour récupérer une liste d'informations │ └── scrape_details.py # Script pour explorer les détails de chaque lien ├── data/ │ └── tourisme.db # Base de données DuckDB └── requirements.txt # Fichier pour les dépendances du projet
+. ├── README.md 
+  ├── scripts/   ├── scrape_list.py # Script pour récupérer une liste d'informations │ 
+  │              ├── scrape_details.py # Script pour explorer les détails de chaque lien 
+  │              └── tourisme.db # Base de données DuckDB    
+  └── README
 
 
 
