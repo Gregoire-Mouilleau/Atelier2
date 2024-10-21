@@ -18,8 +18,10 @@ Pour exécuter ce projet, suivez ces étapes :
 
 
 2. Installez les dépendances nécessaires :
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Exécutez les scripts :
-python scripts/scrape_list.py
-python scripts/scrape_details.py
+   ```bash
+   python scripts/scrape_list.py
+   python scripts/scrape_details.py
